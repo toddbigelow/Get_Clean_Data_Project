@@ -2,7 +2,7 @@
 
 ## Scripts
 
-This work utilizes one R script, run_analysis.r, which performs the tasks listed below in Transformations.  
+This work utilizes one R script, "run_analysis.r", which performs the tasks listed below in Transformations.  
 
 ## Variables
 
